@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Properties>
+  <AppleSite>
+    <AppleUser>avi</AppleUser>
+    <ApplePassword>12345</ApplePassword>
+  </AppleSite>
+  <SamsungSite>
+    <SamsungUser>avi@gmail.com</SamsungUser>
+    <SamsungPassword>12345</SamsungPassword>
+  </SamsungSite>
+</Properties>
